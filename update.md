@@ -9,11 +9,11 @@
 </div>
 
 - **指令一：用來取得遠端更新伺服器的套件檔案清單。**
-        sudo apt-get update。
+<br>sudo apt-get update。
 
 - **指令二：更新套件。**
-        sudo apt-get -y dist-upgrade
+<br>sudo apt-get -y dist-upgrade
 
 - **指令三：清除更新時所下載回來的更新(安裝)檔案。**
-        sudo apt-get clean
+<br>sudo apt-get clean
 
