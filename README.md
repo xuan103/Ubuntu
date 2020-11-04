@@ -4,6 +4,8 @@
 
 - [Update](https://github.com/xuan103/Ubuntu/wiki/Update)
 
+- [Network](https://github.com/xuan103/Ubuntu/wiki/Network)
+
 
 # CPU 的一些基本信息
 
