@@ -1,5 +1,10 @@
 # Ubuntu
 
+- [lnstall-Linux-Server/20.04](https://github.com/xuan103/Ubuntu/wiki/lnstall-Linux-Server-(Ubuntu-20.04))
+
+- [Update](https://github.com/xuan103/Ubuntu/wiki/Update)
+
+
 # CPU 的一些基本信息
 
 > lscpu
